@@ -1,0 +1,226 @@
+{
+  "raw_clip": {
+    "naive": {
+      "mean": 30.800108710924786,
+      "std": 1.3815091198029308,
+      "n": 15,
+      "all_scores": [
+        31.830981373786926,
+        29.73504662513733,
+        30.772733688354492,
+        27.87456214427948,
+        30.348268151283264,
+        27.822238206863403,
+        30.708062648773193,
+        31.818735599517822,
+        30.788454413414,
+        32.04757571220398,
+        32.32595920562744,
+        32.3401153087616,
+        30.46066462993622,
+        31.236129999160767,
+        31.89210295677185
+      ]
+    },
+    "structured": {
+      "mean": 28.081663449605305,
+      "std": 1.1367994359909999,
+      "n": 15,
+      "all_scores": [
+        28.59054207801819,
+        27.06494629383087,
+        28.336796164512634,
+        26.887279748916626,
+        26.499253511428833,
+        27.043119072914124,
+        27.13535726070404,
+        28.03579270839691,
+        28.224316239356995,
+        27.87914276123047,
+        28.041347861289978,
+        27.362829446792603,
+        30.064290761947632,
+        29.93544042110443,
+        30.124497413635254
+      ]
+    },
+    "structured_neg": {
+      "mean": 27.92653501033783,
+      "std": 1.1296662987930453,
+      "n": 15,
+      "all_scores": [
+        28.782302141189575,
+        26.92207396030426,
+        28.07958424091339,
+        26.659342646598816,
+        26.62438154220581,
+        27.025973796844482,
+        27.644768357276917,
+        28.62914204597473,
+        27.53846049308777,
+        26.75502300262451,
+        27.164924144744873,
+        27.83169150352478,
+        29.876118898391724,
+        30.236613750457764,
+        29.12762463092804
+      ]
+    }
+  },
+  "semantic_clip": {
+    "naive": {
+      "mean": 29.437081317106884,
+      "std": 2.831001500806291,
+      "n": 15
+    },
+    "structured": {
+      "mean": 31.889304717381794,
+      "std": 1.9236133502885784,
+      "n": 15
+    },
+    "structured_neg": {
+      "mean": 31.321047743161518,
+      "std": 1.8642878792993458,
+      "n": 15
+    }
+  },
+  "consistency_lpips": {
+    "naive": {
+      "mean_lpips": 0.6653952956199646,
+      "std_lpips": 0.0442321703437658,
+      "n_pairs": 15
+    },
+    "structured": {
+      "mean_lpips": 0.6456336537996928,
+      "std_lpips": 0.04825163454469719,
+      "n_pairs": 15
+    },
+    "structured_neg": {
+      "mean_lpips": 0.6573017676671346,
+      "std_lpips": 0.04012720167011551,
+      "n_pairs": 15
+    }
+  },
+  "diversity_lpips": {
+    "naive": {
+      "mean_diversity": 0.7273795485496521,
+      "std_diversity": 0.11005556496441608,
+      "n_pairs": 25
+    },
+    "structured": {
+      "mean_diversity": 0.7105754709243775,
+      "std_diversity": 0.05399615249506361,
+      "n_pairs": 25
+    },
+    "structured_neg": {
+      "mean_diversity": 0.6956014633178711,
+      "std_diversity": 0.047731112173620804,
+      "n_pairs": 25
+    }
+  },
+  "fid": {
+    "naive": 193.12078857421875,
+    "structured": 200.9149627685547,
+    "structured_neg": 195.88369750976562
+  },
+  "catalog": [
+    {
+      "room_type": "living room",
+      "style": "scandinavian",
+      "materials": [
+        "oak wood floor",
+        "white walls",
+        "linen upholstery"
+      ],
+      "lighting": "natural window light",
+      "key_furniture": [
+        "low sofa",
+        "wooden coffee table",
+        "floor lamp"
+      ],
+      "mood": "minimalist and cozy",
+      "color_palette": "neutral tones with soft beige accents"
+    },
+    {
+      "room_type": "bedroom",
+      "style": "japandi",
+      "materials": [
+        "light oak flooring",
+        "cream walls",
+        "linen bedding"
+      ],
+      "lighting": "soft morning light",
+      "key_furniture": [
+        "low platform bed",
+        "wooden nightstand",
+        "paper lamp"
+      ],
+      "mood": "serene and calm",
+      "color_palette": "warm neutrals with muted sage accents"
+    },
+    {
+      "room_type": "home office",
+      "style": "industrial",
+      "materials": [
+        "polished concrete floor",
+        "exposed brick wall",
+        "steel shelving"
+      ],
+      "lighting": "pendant lighting with warm bulbs",
+      "key_furniture": [
+        "reclaimed wood desk",
+        "leather chair",
+        "metal bookshelf"
+      ],
+      "mood": "focused and masculine",
+      "color_palette": "dark grey and warm wood tones"
+    },
+    {
+      "room_type": "kitchen",
+      "style": "modern farmhouse",
+      "materials": [
+        "white subway tile",
+        "butcher block counter",
+        "hardwood floor"
+      ],
+      "lighting": "bright natural light from large windows",
+      "key_furniture": [
+        "kitchen island",
+        "open shelving",
+        "bar stools"
+      ],
+      "mood": "warm and inviting",
+      "color_palette": "white with warm wood accents"
+    },
+    {
+      "room_type": "dining room",
+      "style": "mid-century modern",
+      "materials": [
+        "walnut wood floor",
+        "textured plaster walls",
+        "brass fixtures"
+      ],
+      "lighting": "statement pendant light",
+      "key_furniture": [
+        "walnut dining table",
+        "upholstered chairs",
+        "sideboard"
+      ],
+      "mood": "elegant and retro",
+      "color_palette": "warm woods with mustard and teal accents"
+    }
+  ],
+  "strategies": [
+    "naive",
+    "structured",
+    "structured_neg"
+  ],
+  "seeds": [
+    42,
+    123,
+    2024
+  ],
+  "model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+  "reference_dataset": "MohamedAli77/interior-rooms",
+  "n_reference_images": 100
+}

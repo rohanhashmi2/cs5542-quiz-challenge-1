@@ -1,0 +1,452 @@
+[
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "naive",
+    "seed": 42,
+    "prompt": "a scandinavian living room",
+    "negative_prompt": "",
+    "filename": "spec00_naive_seed42.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "naive",
+    "seed": 123,
+    "prompt": "a scandinavian living room",
+    "negative_prompt": "",
+    "filename": "spec00_naive_seed123.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "naive",
+    "seed": 2024,
+    "prompt": "a scandinavian living room",
+    "negative_prompt": "",
+    "filename": "spec00_naive_seed2024.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured",
+    "seed": 42,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec00_structured_seed42.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured",
+    "seed": 123,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec00_structured_seed123.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured",
+    "seed": 2024,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec00_structured_seed2024.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured_neg",
+    "seed": 42,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec00_structured_neg_seed42.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured_neg",
+    "seed": 123,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec00_structured_neg_seed123.png"
+  },
+  {
+    "spec_idx": 0,
+    "room_type": "living room",
+    "style": "scandinavian",
+    "strategy": "structured_neg",
+    "seed": 2024,
+    "prompt": "scandinavian living room, oak wood floor, white walls, linen upholstery, low sofa, wooden coffee table, floor lamp, natural window light, minimalist and cozy, neutral tones with soft beige accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec00_structured_neg_seed2024.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "naive",
+    "seed": 42,
+    "prompt": "a japandi bedroom",
+    "negative_prompt": "",
+    "filename": "spec01_naive_seed42.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "naive",
+    "seed": 123,
+    "prompt": "a japandi bedroom",
+    "negative_prompt": "",
+    "filename": "spec01_naive_seed123.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "naive",
+    "seed": 2024,
+    "prompt": "a japandi bedroom",
+    "negative_prompt": "",
+    "filename": "spec01_naive_seed2024.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured",
+    "seed": 42,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec01_structured_seed42.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured",
+    "seed": 123,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec01_structured_seed123.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured",
+    "seed": 2024,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec01_structured_seed2024.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured_neg",
+    "seed": 42,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec01_structured_neg_seed42.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured_neg",
+    "seed": 123,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec01_structured_neg_seed123.png"
+  },
+  {
+    "spec_idx": 1,
+    "room_type": "bedroom",
+    "style": "japandi",
+    "strategy": "structured_neg",
+    "seed": 2024,
+    "prompt": "japandi bedroom, light oak flooring, cream walls, linen bedding, low platform bed, wooden nightstand, paper lamp, soft morning light, serene and calm, warm neutrals with muted sage accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec01_structured_neg_seed2024.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "naive",
+    "seed": 42,
+    "prompt": "a industrial home office",
+    "negative_prompt": "",
+    "filename": "spec02_naive_seed42.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "naive",
+    "seed": 123,
+    "prompt": "a industrial home office",
+    "negative_prompt": "",
+    "filename": "spec02_naive_seed123.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "naive",
+    "seed": 2024,
+    "prompt": "a industrial home office",
+    "negative_prompt": "",
+    "filename": "spec02_naive_seed2024.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured",
+    "seed": 42,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec02_structured_seed42.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured",
+    "seed": 123,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec02_structured_seed123.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured",
+    "seed": 2024,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec02_structured_seed2024.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured_neg",
+    "seed": 42,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec02_structured_neg_seed42.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured_neg",
+    "seed": 123,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec02_structured_neg_seed123.png"
+  },
+  {
+    "spec_idx": 2,
+    "room_type": "home office",
+    "style": "industrial",
+    "strategy": "structured_neg",
+    "seed": 2024,
+    "prompt": "industrial home office, polished concrete floor, exposed brick wall, steel shelving, reclaimed wood desk, leather chair, metal bookshelf, pendant lighting with warm bulbs, focused and masculine, dark grey and warm wood tones, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec02_structured_neg_seed2024.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "naive",
+    "seed": 42,
+    "prompt": "a modern farmhouse kitchen",
+    "negative_prompt": "",
+    "filename": "spec03_naive_seed42.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "naive",
+    "seed": 123,
+    "prompt": "a modern farmhouse kitchen",
+    "negative_prompt": "",
+    "filename": "spec03_naive_seed123.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "naive",
+    "seed": 2024,
+    "prompt": "a modern farmhouse kitchen",
+    "negative_prompt": "",
+    "filename": "spec03_naive_seed2024.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured",
+    "seed": 42,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec03_structured_seed42.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured",
+    "seed": 123,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec03_structured_seed123.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured",
+    "seed": 2024,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec03_structured_seed2024.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured_neg",
+    "seed": 42,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec03_structured_neg_seed42.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured_neg",
+    "seed": 123,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec03_structured_neg_seed123.png"
+  },
+  {
+    "spec_idx": 3,
+    "room_type": "kitchen",
+    "style": "modern farmhouse",
+    "strategy": "structured_neg",
+    "seed": 2024,
+    "prompt": "modern farmhouse kitchen, white subway tile, butcher block counter, hardwood floor, kitchen island, open shelving, bar stools, bright natural light from large windows, warm and inviting, white with warm wood accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec03_structured_neg_seed2024.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "naive",
+    "seed": 42,
+    "prompt": "a mid-century modern dining room",
+    "negative_prompt": "",
+    "filename": "spec04_naive_seed42.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "naive",
+    "seed": 123,
+    "prompt": "a mid-century modern dining room",
+    "negative_prompt": "",
+    "filename": "spec04_naive_seed123.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "naive",
+    "seed": 2024,
+    "prompt": "a mid-century modern dining room",
+    "negative_prompt": "",
+    "filename": "spec04_naive_seed2024.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured",
+    "seed": 42,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec04_structured_seed42.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured",
+    "seed": 123,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec04_structured_seed123.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured",
+    "seed": 2024,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "",
+    "filename": "spec04_structured_seed2024.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured_neg",
+    "seed": 42,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec04_structured_neg_seed42.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured_neg",
+    "seed": 123,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec04_structured_neg_seed123.png"
+  },
+  {
+    "spec_idx": 4,
+    "room_type": "dining room",
+    "style": "mid-century modern",
+    "strategy": "structured_neg",
+    "seed": 2024,
+    "prompt": "mid-century modern dining room, walnut wood floor, textured plaster walls, brass fixtures, walnut dining table, upholstered chairs, sideboard, statement pendant light, elegant and retro, warm woods with mustard and teal accents, interior design photography, architectural digest style, highly detailed, 4k, professional lighting",
+    "negative_prompt": "blurry, distorted, low quality, cartoon, illustration, painting, warped perspective, fisheye, cluttered, messy, ugly, amateur, bad proportions, oversaturated, unrealistic, watermark, text, logo, people, person, human",
+    "filename": "spec04_structured_neg_seed2024.png"
+  }
+]

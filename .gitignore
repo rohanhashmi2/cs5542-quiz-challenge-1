@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generation artifacts — regenerate with the notebook, don't commit large runs
+my_generations/
+reference_real/
+*.pth
+*.ckpt
+*.safetensors
+
+# But DO commit the small curated result sets
+!results/sample_images/
+!grids/

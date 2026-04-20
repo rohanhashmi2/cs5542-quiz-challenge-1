@@ -1,0 +1,4 @@
+strategy,raw_clip,semantic_clip,consistency_lpips,diversity_lpips,fid
+naive,30.8,29.44,0.6654,0.7274,193.12
+structured,28.08,31.89,0.6456,0.7106,200.91
+structured_neg,27.93,31.32,0.6573,0.6956,195.88

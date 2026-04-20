@@ -1,0 +1,22 @@
+# Core diffusion stack
+diffusers>=0.27.0
+transformers>=4.40.0
+accelerate>=0.29.0
+huggingface_hub>=0.20.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Evaluation metrics
+torchmetrics[image]>=1.2.0
+open_clip_torch>=2.23.0
+
+# ControlNet preprocessors (optional / bonus)
+controlnet_aux>=0.0.7
+
+# Data & utilities
+datasets>=2.14.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
